@@ -1,0 +1,142 @@
+.footer-cart-main{
+    background-color: white;
+    width: 92%;
+    height: 28vh;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+}
+
+.footer-cart-nav{
+    margin: 2%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-cart-nav-right{
+    display: flex; 
+    justify-content: space-between;
+}
+.footer-cart-nav-right input{
+    outline: none;
+    border: none;
+    background-color: white;
+}
+.search-icon{
+    
+}
+#Last-30-days{
+  font-size: 60%;
+  font-weight: 100;
+  border: none;
+  color: grey;
+}
+.product-sell{
+    font-weight: bold;
+}
+.footer-cart-mid-first{
+    display: flex;
+    justify-content: space-between;
+    margin: 1%;
+}
+.footer-cart-mid-first-left{
+    width: 55%;
+    text-align: start;
+    color: grey;
+    font-size: 60%;
+}
+
+.footer-cart-mid-first-right{
+    width: 35%;
+    display: flex;
+}
+.footer-cart-mid-first-right p{
+    /* gap: 20px; */
+    width: 100%;
+    color: grey;
+    font-size: 60%;
+}
+
+
+
+
+
+.footer-cart-mid-second{
+    display: flex;
+    justify-content: space-between;
+    margin: 1%;
+}
+.footer-cart-mid-second-left{
+    width: 55%;
+    height: 5vh;
+    display: flex;
+    color: grey;
+    font-size: 60%;
+}
+
+.modern-img-div img{
+    height: 80%;
+    width: 100%;
+    border-radius: 5px;
+}
+.modern-img-div-text{
+    text-align: start;
+    margin-left: 2%;
+    font-weight: bolder;
+    color: black;
+}
+.modern-img-div-text p{
+    color: grey;
+    font-weight: 100;
+}
+.footer-cart-mid-second-right{
+    width: 35%;
+    display: flex;
+}
+.footer-cart-mid-second-right p{
+    width: 100%;
+    color: grey;
+    font-size: 60%;
+}
+
+
+
+
+.footer-cart-mid-third{
+    display: flex;
+    justify-content: space-between;
+    margin: 1%;
+}
+.footer-cart-mid-third-left{
+    width: 55%;
+    height: 5vh;
+    display: flex;
+    color: grey;
+    font-size: 60%;
+}
+
+.graphic-img-div img{
+    height: 80%;
+    width: 100%;
+    border-radius: 5px;
+}
+.graphic-img-div-text{
+    text-align: start;
+    margin-left: 2%;
+    font-weight: bolder;
+    color: black;
+}
+.graphic-img-div-text p{
+    color: grey;
+    font-weight: 100;
+}
+
+.footer-cart-mid-third-right{
+    width: 35%;
+    display: flex;
+}
+.footer-cart-mid-third-right p{
+    width: 100%;
+    color: grey;
+    font-size: 60%;
+}
